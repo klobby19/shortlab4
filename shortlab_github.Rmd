@@ -46,7 +46,7 @@ Follow the instructions on Lecture Slides 7 (60 -- 68).
 Please type only the link to your repository using the template below. Fill in both the square brackets `[]` and the parentheses `()` with your link.
 
 
-[shortLab4](https://github.com/klobby19/shortLab4)
+[https://github.com/klobby19/shortLab4](https://github.com/klobby19/shortLab4)
 
 Here's a checklist of what we should see at the link above:
 
