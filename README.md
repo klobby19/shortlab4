@@ -1,2 +1,2 @@
-# shortlab4
+# shortLab4
 Short Lab 4 of STAT 302
